@@ -4,7 +4,7 @@ import MOVE_ICON from "../assets/icons/move.svg";
 import BIN_ICON from "../assets/icons/delete.svg";
 import useDraggable from "../hooks/useDraggable";
 import useResizable from "../hooks/useResizable";
-import { CANVAS_HEIGHT, CANVAS_WIDTH } from "../constants.ts/canvasSize";
+import { CANVAS_HEIGHT, CANVAS_WIDTH } from "../constants/canvasSize";
 import { handleClickOutside } from "../utils/handleClickOutside";
 
 export default function Imagearea({

@@ -5,11 +5,11 @@ import ControlButtons from "./ControlButtons";
 import MOVE_ICON from "../assets/icons/move.svg";
 import BIN_ICON from "../assets/icons/delete.svg";
 
-import { TEXT_COLORS, textColorMapping } from "../constants.ts/textColors";
+import { TEXT_COLORS, textColorMapping } from "../constants/textColors";
 import { twMerge } from "tailwind-merge";
 import useDraggable from "../hooks/useDraggable";
 import useResizable from "../hooks/useResizable";
-import { CANVAS_HEIGHT, CANVAS_WIDTH } from "../constants.ts/canvasSize";
+import { CANVAS_HEIGHT, CANVAS_WIDTH } from "../constants/canvasSize";
 import { handleClickOutside } from "../utils/handleClickOutside";
 import { moveCaretToEnd } from "../utils/moveCaretToEnd";
 

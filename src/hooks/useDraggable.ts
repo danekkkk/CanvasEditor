@@ -1,5 +1,5 @@
 import { useEffect, useRef } from "react";
-import { CANVAS_HEIGHT, CANVAS_WIDTH } from "../constants.ts/canvasSize";
+import { CANVAS_HEIGHT, CANVAS_WIDTH } from "../constants/canvasSize";
 
 type Coords = {
   startX: number;

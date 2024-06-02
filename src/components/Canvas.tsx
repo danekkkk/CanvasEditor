@@ -1,4 +1,4 @@
-import { CANVAS_HEIGHT, CANVAS_WIDTH } from "../constants.ts/canvasSize";
+import { CANVAS_HEIGHT, CANVAS_WIDTH } from "../constants/canvasSize";
 import Imagearea from "./Imagearea";
 import Textarea from "./Textarea";
 

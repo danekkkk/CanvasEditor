@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { TEXT_COLORS } from "../constants.ts/textColors";
+import { TEXT_COLORS } from "../constants/textColors";
 import Color from "./Color";
 
 interface IColors {
