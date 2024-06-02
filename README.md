@@ -1,7 +1,4 @@
-<div style="display: flex; align-items: center;">
-  <img src="./src/assets/icons/logo.svg" width="70px" style="margin-right: 10px;" />
-  <h1>CanvasEditor</h1>
-</div>
+<img src="./documentation/logo.png" width="250px" />
 
 ## Tech Stack
 - React
