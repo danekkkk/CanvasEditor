@@ -7,7 +7,7 @@
 - DOM to Image
 
 ## Instalation
-Requires Node.js v4.18+, v16+. to run.
+Requires Node.js v4.18+, v16+ to run.
 
 
 ```sh
